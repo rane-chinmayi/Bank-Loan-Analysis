@@ -1,7 +1,7 @@
 # Bank Loan Analysis
  
 # Analysis of Amazon-Netflix-Performance in Tableau
-Link to Tableau file - [Download Visualization Twbx File](Project.twbx)
+Link to Tableau file - [Download Visualization Twbx File](Bank_Loan_Analysis.twbx)
 
 ## Dashboards
 ![Summary](images/summary.png)
