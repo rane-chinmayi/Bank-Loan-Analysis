@@ -1,7 +1,7 @@
 # Credit Analysis Project
-Link to Tableau file - [Download Visualization Twbx File](Bank_Loan_Analysis.twbx)
+Link to Tableau file - [Download Visualization Twbx File](BankLoanAnalysis.twbx)
 
 ## Dashboards
 ![Summary](images/summary.png)
-![Overview](images/overview_1.png)
+![Overview](images/overview.png)
 ![Details](images/details.png)
