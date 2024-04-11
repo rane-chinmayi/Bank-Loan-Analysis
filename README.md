@@ -1,6 +1,4 @@
-# Bank Loan Analysis
- 
-# Analysis of Amazon-Netflix-Performance in Tableau
+# Credit Analysis Project
 Link to Tableau file - [Download Visualization Twbx File](Bank_Loan_Analysis.twbx)
 
 ## Dashboards
